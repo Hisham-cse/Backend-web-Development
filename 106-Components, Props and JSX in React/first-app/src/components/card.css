@@ -1,0 +1,9 @@
+.card{
+    width: 20vw;
+    border: 2px solid black;
+    margin: 34px;
+    height: 10vh;
+    padding-top: 0;
+    padding-bottom: 155px;
+    padding-left: 40px;
+}
